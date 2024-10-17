@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '89.169.165.243',
-    'taskiyp.ddns.net']
+    'newtaskyypapls.hopto.org']
 
 
 # Application definition
